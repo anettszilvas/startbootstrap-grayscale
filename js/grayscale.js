@@ -1,3 +1,13 @@
+var typed2 = new Typed('#typed2', {
+    strings: ["Graphic", "User Interface", "User Experience", "Branding"],
+    typeSpeed: 70,
+    backSpeed: 50,
+    startDelay: 0,
+    backDelay: 2000,
+    loop: true,
+    cursorChar: '|'
+  });
+
 (function($) {
   "use strict"; // Start of use strict
 
